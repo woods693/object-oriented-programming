@@ -1,6 +1,4 @@
-//Woody Chen Lin Chang
-//s.id: 301 231 083
-//Cmpt 225 // Assignment 2
+//W
 #ifdef _CIRCULARLINKEDLIST_H_
 #include <stdexcept>
 #include <iostream>

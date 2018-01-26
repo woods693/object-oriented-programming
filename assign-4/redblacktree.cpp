@@ -3,10 +3,7 @@
 
 #include <iostream>
 #include <math.h>
-//Woody Chen Lin Chang
-//301231083
-//CMPT225
-
+//W
 //private
 
 // recursive helper function for deep copy

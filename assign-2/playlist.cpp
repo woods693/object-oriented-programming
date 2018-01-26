@@ -1,8 +1,6 @@
 #include <iostream>
 #include "playlist.h"
-//Woody Chen Lin Chang
-//s.id: 301 231 083
-//Cmpt 225 // Assignment 2
+//W
 
 //Public
 	// default constructor

@@ -1,8 +1,5 @@
 #include "stocksystem.h"
-//Woody Chen Lin Chang
-//301231083
-//CMPT225
- 
+//W
 // default constructor;
 // begin with a balance of $100,000.00
 StockSystem::StockSystem()

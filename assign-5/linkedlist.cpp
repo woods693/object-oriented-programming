@@ -1,6 +1,5 @@
 #include "linkedlist.h"
-//Woody Chen Lin Chang
-//Assignment 5
+//W
 //#include <vector>
 //private:  
 

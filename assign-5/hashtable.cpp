@@ -1,6 +1,6 @@
 #include "hashtable.h"
 #include <vector>
-//Woody Chen Lin Chang
+//W
 //Assignment 5
 // hash function, uses Horner's method
 // Assume input string consists only of lower-case a to z
